@@ -1,0 +1,40 @@
+.addbutton{
+    display: flex;
+    justify-content: end;
+    margin-right: 150px;
+    padding: 2px;
+    margin-top: 50px;
+}
+.a{
+    text-align: center;
+}
+
+table,th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.datafechtable{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.mrgright{
+    margin-right: 50 px;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.mrgbtm{
+    margin-bottom: 15px;
+}
+.dlpost{
+    background-color: red;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
+.uppost{
+    background-color:yellowgreen;
+    color: white;
+    margin: 5px;
+    border-radius: 5px;
+}
